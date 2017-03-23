@@ -6,5 +6,6 @@ $ node-red-pi --max-old-space-size=128
 
 Update to latest raspbian beta ->
 sudo BRANCH=next rpi-update
+ Check version -> uname -a
 
 
