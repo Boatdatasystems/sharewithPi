@@ -13,3 +13,4 @@ https://raw.githubusercontent.com/sailoog/openplotter/beta/update/update_depende
 https://raw.githubusercontent.com/sailoog/openplotter/beta/update/default_openplotter_desk.sh
 https://raw.githubusercontent.com/sailoog/openplotter/beta/update/update_OpenPlotter.sh
 
+https://raw.githubusercontent.com/SignalK/signalk-server-node/master/settings/defaults.json-sample
