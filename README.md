@@ -14,3 +14,5 @@ https://raw.githubusercontent.com/sailoog/openplotter/beta/update/default_openpl
 https://raw.githubusercontent.com/sailoog/openplotter/beta/update/update_OpenPlotter.sh
 
 https://raw.githubusercontent.com/SignalK/signalk-server-node/master/settings/defaults.json-sample
+
+jA0/-UDBN-6RF1-f5QS-0gD+-+g
